@@ -1,0 +1,196 @@
+- sign up for Berlin 10K
+
+- 2024-09-25
+	- 2024-09-24 14:28:19 up and ready
+
+- 2024-09-24
+	- 2024-09-24 06:01:18 up and ready
+	- 2024-09-24 06:21:28 LANGUAGE: nl/fr audio
+		- 10m talked to Gisi
+	- 2024-09-24 08:06:52 DEVELOP: UI Library project
+	- 2024-09-24 09:59:49 DEVELOP: prepare for framework transfer
+	- 2024-09-24 11:23:23 break
+	- 2024-09-24 11:41:42 lunch
+	- 2024-09-24 12:06:29 DEVELOP: timezone project
+	
+	
+	
+	
+	
+	
+	
+
+	
+- fall2024
+	- projects
+		- app-timemaster
+		- app-dpodtasker
+		- app-allnews
+		- app-techitems
+	- new areas
+		- windows access ubuntu
+		- another computer running
+		- lots of APIs at Hetzner
+		- docker at Hetzner works
+		- npm package publish
+			- qtools for typescript
+		- many kinds of backends work on Hetzner with databases
+			- FastAPI
+			- Flask
+		- many kinds of sites
+			- Django
+		- established in Python, base sites:
+			- Flask
+			- FastAPI
+			- Django
+		- x Insomnia
+		- x git changes coming
+		- ,, WSL
+	
+*** GOAL: for thu 14:00, finish timemaster, dpodtasker
+	
+
+	
+- qubid-november-plan-45
+	- projects
+		- apps
+			- timemaster
+				- typescript-nuxt
+			- dpodtasker
+				- typescript-next
+		- showcases
+			- online-payload-nuxt-prisma
+		- dpods
+			- typescript-nuxt
+			- typescript-next
+	- deep Next.js
+		- videos
+		- running on Hetzner straight
+		- running on Hetzner in docker
+	- Nuxt 4
+		- Datapod with Nuxt 4
+		- Pinia
+	- Payload
+		- fixed
+		- running on Hetzner
+	- Prisma
+		- full online application with Prisma
+	- shadcn
+		- implement in Datapod
+	- online apps
+		- running at Hetzner
+		- in Docker
+		- with authetnication
+	- frontend skills
+		- codility
+			- https://app.codility.com/demo/take-sample-test/
+			- https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpnQhVdCQWCQJnrSnHdlrMSvg	
+		- https://www.geeksforgeeks.org/reactjs/practice-react-online/
+		- daily: https://bigfrontend.dev/
+	- Senior React
+		- https://app-eu.codility.com/programmers
+		- getDerivedStateFromProps
+		- page cycle
+		- useMemo
+		- concurrent mode, non-urgent update
+		- learn it deeply
+		- daily tests
+	- GitLab
+		- installed on Ubuntu
+		- connect over wlan network
+	- Bun
+		- 3 tutorials
+		- use instead of Node on Ubuntu and Hetzner
+	- WCAG and other frontend topics
+		- take quizzes
+		- memorized
+	- 10 youtube videos
+		- of all this technology
+	- Tailwind
+		- 2 tutorials
+		- understand 4 well
+	- Datapod
+		- rolling with updates on datapod central
+	- containers
+		- Docker
+			- become fluent with it at Hetzner
+			- and setting up at GitLab
+		- Kubernetes tutorial
+		- AWS tutorial
+	- AI
+		- one video everyday
+	- apps
+		- develop everyday, e.g. compout, dpcentral
+			- compout: read words to pronounce
+	- techitems2
+		- 1000 items
+		- go through linux magazine and books (German)
+	- Webpack
+	- WSL
+	- Storybook
+
+
+
+
+- 2024-09-23
+	- 2024-09-23 07:23:05 up and ready
+	- 2024-09-23 07:43:12 JOB: signed document, wrote Lackners, gisi, called Hannah
+	- 2024-09-23 08:15:47 LANGUAGE: nl-fr audio
+	- 2024-09-23 09:45:05 JOB: 2nd interview 
+	- 2024-09-23 11:15:32 break, lunch, shopping
+	- 2024-09-23 12:42:14 JOB: wrote DATATHORN
+	- 2024-09-23 12:59:07 break
+	- 2024-09-23 13:42:22 DEVELOP: Flask/Jinja
+	- 2024-09-23 14:54:32 JOB: interview 1 for Charmant
+	- 2024-09-23 15:49:45 JOB: int-1-doorround-react-mobx-webpack
+	- 2024-09-23 16:28:29 break, talked to Gisi, afternoon off, nap, talked to Hannah
+	- 2024-09-23 20:22:15 DEVELOP: Flask/Jinja
+		- 15m talked to Gisi
+	- 2024-09-23 21:54:41 break
+	- 2024-09-23 22:39:20 DEVELOP: timemaster  	
+		- 2024-09-23 22:54:39 plan week, added courses
+		- 2024-09-23 23:03:04
+	- 2024-09-23 23:33:18 DEVELOP: UI Library coding challenge
+	- 2024-09-24 00:47:20
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+
+
+
+- 2024-09-22
+	- 2024-09-22 06:27:19 up and ready
+	- 2024-09-22 06:47:34 LANGUAGE: fr audio
+	- 2024-09-22 08:00:51 mails, plan day, Andreas 
+	- 2024-09-22 08:25:06 JOB: answered mail about PHP/JS, scheduled React test
+	- 2024-09-22 08:59:23 collect fall2024 tutorials to take, add from learn2020
+	- 2024-09-22 09:50:01 break
+	- 2024-09-22 10:12:45 DEVELOP: template-nuxt-001
+	- 2024-09-22 10:22:03 DEVELOP: showcase-nuxt-001
+	- 2024-09-22 11:48:22 lunch 
+	- 2024-09-22 12:41:34 DEVELOP: feature-add-nuxt-as-frontend
+	- 2024-09-22 15:17:57 TECHLEARN: FastAPI course
+		- 80m gisi, wrote Hans, ate
+	- 2024-09-22 18:42:11 shopping
+	- 2024-09-22 19:43:39 DEVELOP: showcase-flask-api
+	- 2024-09-22 21:10:13 DEVELOP: showcase-flask-jinja
+		- 2024-09-22 21:10:55 talked to gisi  
+		- 2024-09-22 21:25:11 break
+	- 2024-09-24 01:07:21
+	
+	
+	
+	
+
+	
+
+- more data
+
+ollama 3.0

@@ -1,7 +1,7 @@
 <template>
 	<Html>
 		<Head>
-			<Title>Info Site</Title>
+			<Title>Time Master</Title>
 		</Head>
 	</Html>
 	<div class="p-6 bg-slate-400  min-h-screen">
