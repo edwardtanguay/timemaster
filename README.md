@@ -1,14 +1,8 @@
-# datapod-for-python-nuxt
+# timemaster
 
-This is a simple datapod template for a local site that displays data from a JSON file, which is created by a Python script that parses a text file.
+This app parses a timesheet.txt file and generates a JSON file with the parsed data for a report on how much time is spent in various projects.
 
-- repo: https://github.com/edwardtanguay/datapod-python-nuxt
-- live: https://datapod-python-nuxt.vercel.app
-
-## Compatibility
-
--   ✔️ tested on Windows
--   ✔️ tested on Ubuntu
+- repo: https://github.com/edwardtanguay/timemaster
 
 ## Set up backend
 
@@ -26,31 +20,7 @@ This is a simple datapod template for a local site that displays data from a JSO
 
 ## npm scripts
 
-- `npm run cp` - create page
-- `npm run pd` - parse data 
+- `npm run pd` - parse data (parses timesheet.txt to timedays.json)
 - `npm run gh` - GitHub commit log
 - `npm run backup` - backup site in ../BACKUP folder (as .zip file without node_modules)
 
-## Run Jupyter notebooks example
-
--   `cd dev`
--   `python -m ipykernel install --user --name=dpodsitevenv --display-name "Python (Dpod site)"`
--   `jupyter lab`
-
-- other useful commands:
-  - `jupyter kernelspec list`
-  - `jupyter kernelspec uninstall dpodvenv`
-
-## Testing (beta)
-
--   `npm test` (runs all pytests)
-
-## Create HTML documentation for qtools (beta)
-
--   cd scripts
--   `pdoc qtools --output-dir docs`
--   see scripts/docs/index.html
-
-## More Datapod templates and sites
-
-https://datapod-tanguay-eu.vercel.app
