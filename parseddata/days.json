@@ -1,7 +1,7 @@
 [
     {
         "date": "2024-09-25",
-        "display_date": "Friday, Jan 1, 2025",
+        "displayDate": "Friday, Jan 1, 2025",
         "projects": [
             {
                 "minutes": 60,
@@ -15,7 +15,7 @@
     },
     {
         "date": "2024-09-24",
-        "display_date": "Friday, Jan 1, 2025",
+        "displayDate": "Friday, Jan 1, 2025",
         "projects": [
             {
                 "minutes": 60,
@@ -29,7 +29,7 @@
     },
     {
         "date": "2024-09-23",
-        "display_date": "Friday, Jan 1, 2025",
+        "displayDate": "Friday, Jan 1, 2025",
         "projects": [
             {
                 "minutes": 60,
@@ -43,7 +43,7 @@
     },
     {
         "date": "2024-09-22",
-        "display_date": "Friday, Jan 1, 2025",
+        "displayDate": "Friday, Jan 1, 2025",
         "projects": [
             {
                 "minutes": 60,

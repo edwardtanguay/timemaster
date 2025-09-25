@@ -98,12 +98,24 @@ def get_line_blocks(lines, start_marker="starts_with_date", end_marker="starts_w
 	
 
 def convert_line_block_to_string_block(line_block: list[str]) -> str:
-    """Converts a list of lines into a single string with newline characters.
-    
-    Args:
-        line_block: A list of strings representing lines of text.
-        
-    Returns:
-        A single string with each element from the input list joined by newlines.
-    """
-    return '\n'.join(line_block)
+	"""Converts a list of lines into a single string with newline characters.
+	
+	Args:
+		line_block: A list of strings representing lines of text.
+		
+	Returns:
+		A single string with each element from the input list joined by newlines.
+	"""
+	return '\n'.join(line_block)
+
+def snake_to_camel(snake_str) -> str:
+	components = snake_str.split('_')
+	return components[0] + ''.join(x.title() for x in components[1:])
+
+def dict_keys_to_camel(d) -> dict:
+	if isinstance(d, dict):
+		return {snake_to_camel(k): dict_keys_to_camel(v) for k, v in d.items()}
+	elif isinstance(d, list):
+		return [dict_keys_to_camel(i) for i in d]
+	else:
+		return d

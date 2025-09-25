@@ -9,7 +9,7 @@ import days from '../../parseddata/days.json';
 		 :key="day.date"
 		 class="flex flex-col gap-1 p-2 mb-3 w-fit bg-slate-500 rounded">
 		<div>
-			<h3 class="font-semibold cursor-pointer">{{ day.display_date }}</h3>
+			<h3 class="font-semibold cursor-pointer">{{ day.displayDate }}</h3>
 			<ul class="text-yellow-400">
 				<li v-for="project in day.projects"
 					:key="project.suuid"

@@ -35,7 +35,8 @@ def parse() -> None:
 			days.append(day.__dict__)
 
 	try:
-		json_data = json.dumps(days, indent=4)
+		camel_days = dict_keys_to_camel(days)
+		json_data = json.dumps(camel_days, indent=4)
 
 		with open("../parseddata/days.json", 'w') as json_file:
 			json_file.write(json_data)
