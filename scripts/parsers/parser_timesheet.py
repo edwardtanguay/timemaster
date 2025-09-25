@@ -5,13 +5,13 @@ from qtools import *
 
 class Project:
 	def __init__(self, minutes, name):
-		self.suuid = qstr.generate_short_uuid(),
+		self.suuid = qstr.generate_short_uuid()
 		self.minutes = minutes
 		self.name = name
 
 class TimeDay:
 	def __init__(self, date, projects):
-		self.suuid = qstr.generate_short_uuid(),
+		self.suuid = qstr.generate_short_uuid()
 		self.date = date
 		self.projects = projects
 

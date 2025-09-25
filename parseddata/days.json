@@ -1,87 +1,63 @@
 [
     {
-        "suuid": [
-            "OuTqTG"
-        ],
+        "suuid": "9Y1VUF",
         "date": "2024-09-25",
         "projects": [
             {
-                "suuid": [
-                    "aTmVYa"
-                ],
+                "suuid": "Y1lWBF",
                 "minutes": 60,
                 "name": "Project A"
             },
             {
-                "suuid": [
-                    "ivw51z"
-                ],
+                "suuid": "4mWyhi",
                 "minutes": 120,
                 "name": "Project B"
             }
         ]
     },
     {
-        "suuid": [
-            "ldc6Vv"
-        ],
+        "suuid": "FLJRkv",
         "date": "2024-09-24",
         "projects": [
             {
-                "suuid": [
-                    "sTx5RF"
-                ],
+                "suuid": "TGHFs6",
                 "minutes": 60,
                 "name": "Project A"
             },
             {
-                "suuid": [
-                    "1nKspQ"
-                ],
+                "suuid": "qf9A2D",
                 "minutes": 120,
                 "name": "Project B"
             }
         ]
     },
     {
-        "suuid": [
-            "rE8wPo"
-        ],
+        "suuid": "az1QQO",
         "date": "2024-09-23",
         "projects": [
             {
-                "suuid": [
-                    "8T1D2Y"
-                ],
+                "suuid": "Bj23rB",
                 "minutes": 60,
                 "name": "Project A"
             },
             {
-                "suuid": [
-                    "xneWMv"
-                ],
+                "suuid": "bDHMj4",
                 "minutes": 120,
                 "name": "Project B"
             }
         ]
     },
     {
-        "suuid": [
-            "7j06Q0"
-        ],
+        "suuid": "uAxYGx",
         "date": "2024-09-22",
         "projects": [
             {
-                "suuid": [
-                    "RaTrkQ"
-                ],
+                "suuid": "EHa3re",
                 "minutes": 60,
                 "name": "Project A"
             },
             {
-                "suuid": [
-                    "SOn6Qd"
-                ],
+                "suuid": "nejh7j",
                 "minutes": 120,
                 "name": "Project B"
             }
