@@ -18,7 +18,7 @@ class TimeDay:
 def parse() -> None:
 	lines = qfil.get_lines_from_file("../data/timesheet.txt")
 
-	timedays = []
+	days = []
 	for i in range(0, len(lines)):
 		line = lines[i].strip()
 		if re.match(r"^-\s\d{4}-\d{2}-\d{2}$", line):
@@ -27,15 +27,16 @@ def parse() -> None:
 				Project(60, "Project A"),
 				Project(120, "Project B"),
 			]
-			timeday = TimeDay(
+			projects_dicts = [p.__dict__ for p in projects]
+			day = TimeDay(
 				date=date,
-				projects=projects
+				projects=projects_dicts
 			)
 			
-			timedays.append(timeday.__dict__)
+			days.append(day.__dict__)
 
 	try:
-		json_data = json.dumps(timedays, indent=4)
+		json_data = json.dumps(days, indent=4)
 
 		with open("../parseddata/days.json", 'w') as json_file:
 			json_file.write(json_data)
