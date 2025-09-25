@@ -1,63 +1,51 @@
 [
     {
-        "suuid": "9Y1VUF",
         "date": "2024-09-25",
         "projects": [
             {
-                "suuid": "Y1lWBF",
                 "minutes": 60,
                 "name": "Project A"
             },
             {
-                "suuid": "4mWyhi",
                 "minutes": 120,
                 "name": "Project B"
             }
         ]
     },
     {
-        "suuid": "FLJRkv",
         "date": "2024-09-24",
         "projects": [
             {
-                "suuid": "TGHFs6",
                 "minutes": 60,
                 "name": "Project A"
             },
             {
-                "suuid": "qf9A2D",
                 "minutes": 120,
                 "name": "Project B"
             }
         ]
     },
     {
-        "suuid": "az1QQO",
         "date": "2024-09-23",
         "projects": [
             {
-                "suuid": "Bj23rB",
                 "minutes": 60,
                 "name": "Project A"
             },
             {
-                "suuid": "bDHMj4",
                 "minutes": 120,
                 "name": "Project B"
             }
         ]
     },
     {
-        "suuid": "uAxYGx",
         "date": "2024-09-22",
         "projects": [
             {
-                "suuid": "EHa3re",
                 "minutes": 60,
                 "name": "Project A"
             },
             {
-                "suuid": "nejh7j",
                 "minutes": 120,
                 "name": "Project B"
             }
