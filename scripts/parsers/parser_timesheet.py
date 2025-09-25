@@ -11,6 +11,7 @@ class Project:
 class TimeDay:
 	def __init__(self, date, projects):
 		self.date = date
+		self.display_date = "Friday, Jan 1, 2025"
 		self.projects = projects
 
 def parse() -> None:
