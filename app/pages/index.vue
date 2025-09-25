@@ -10,7 +10,13 @@ import days from '../../parseddata/days.json';
 		 class="flex flex-col gap-1 p-2 mb-3 w-fit bg-slate-500 rounded">
 		<div>
 			<h3 class="font-semibold cursor-pointer">{{ day.date }}</h3>
-			<p class="text-yellow-200">data</p>
+			<ul class="text-yellow-400">
+				<li v-for="project in day.projects"
+					:key="project.suuid"
+					class="text-sm">
+					<span class="font-semibold">{{ project.minutes }} mins</span> - {{ project.name }}
+				</li>
+			</ul>
 		</div>
 	</div>
 </template>
